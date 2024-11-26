@@ -1,0 +1,15 @@
+[project]
+name = "cla-unit4-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "jupyterlab>=4.3.1",
+    "keras>=3.7.0",
+    "matplotlib>=3.9.2",
+    "numpy>=2.0.2",
+    "tensorflow-metal>=1.1.0",
+    "tensorflow>=2.18.0",
+    "loguru>=0.7.2",
+]
